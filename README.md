@@ -76,5 +76,12 @@ r = \sqrt{x^2 + y^2}
 # Compilar
 gcc -o solar1 orbita1.c -lm
 
+
+
 # Ejecutar
-./orbita
+./orbita1
+
+
+## Resultados
+
+
