@@ -82,6 +82,7 @@ gcc -o solar1 orbita1.c -lm
 ./orbita1
 
 
+
 ## Resultados
 
 
