@@ -84,5 +84,5 @@ gcc -o solar1 orbita1.c -lm
 
 
 ## Resultados
-en la imagen trayectoriasPlanetas.jpg se calcularosn las trayectorias para diferentes planetas con diferentes condiciones iniciales, 
+en la imagen trayectoriasPlanetas.jpg se calcularosn las trayectorias para diferentes planetas con diferentes condiciones iniciales, en unidades astronomícas UA. 
 y[0]=9.6 Saturno ; y[0]=1 tierra, y[0]= 1.5 Marte, y[0]= 5.2 jupiter   
