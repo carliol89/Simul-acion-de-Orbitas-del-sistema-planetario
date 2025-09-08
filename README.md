@@ -1,4 +1,4 @@
-# Simul-acion-de-Orbitas-del-sistema-planetario
+
 # Simulación de Órbita Planetaria con Método de Runge–Kutta 4 (RK4)
 
 Este programa en **C** simula el movimiento de un planeta alrededor del Sol usando el **método de integración numérica de Runge–Kutta de cuarto orden (RK4)** para resolver las ecuaciones diferenciales del problema gravitatorio de dos cuerpos.
